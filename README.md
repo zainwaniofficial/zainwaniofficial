@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on Javascript<br>i am currently learning  frontend web development<br>i am a BCA student<br> MERN stack<br>
+i am Frontend Developer<br>i am currently making projects using react Js<br>i am a BCA student<br> MERN stack<br>
 
 
 ## 🌐 Socials:
