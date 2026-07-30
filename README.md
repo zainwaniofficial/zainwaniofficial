@@ -1,5 +1,19 @@
 # 💫 About Me:
-i am Frontend Developer<br>i am currently making projects using react Js<br>i am a BCA student<br> MERN stack<br>
+👋 Hi, I'm zain wani 
+🚀 MCA Student | Full-Stack MERN Developer | React Enthusiast
+
+I am a passionate developer currently pursuing a Master of Computer Applications (MCA) at the University of Kashmir.
+
+I have completed my Bachelor of Computer Applications (BCA) and am currently expanding my knowledge in Full-Stack MERN Development. I enjoy building responsive, user-friendly, and practical web applications while continuously improving my problem-solving and software development skills.
+
+🔭 Currently building projects using React.js and the MERN Stack
+🌱 Currently learning Node.js, Express.js, MongoDB, REST APIs, and Backend Development
+💻 Strong foundation in HTML, CSS, JavaScript, React.js, and Responsive Web Design
+🔧 Familiar with Git, GitHub, version control, and collaborative development
+📚 Exploring Data Science with Python, Web Programming, and Software Project Management through my MCA studies
+🎯 Interested in Full-Stack Development, Modern Web Technologies, and Software Engineering
+🤝 Open to collaborating on web development and open-source projects
+⚡ Fun fact: I enjoy turning ideas into clean and functional web applications
 
 
 ## 🌐 Socials:
